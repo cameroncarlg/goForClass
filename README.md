@@ -1,1 +1,1 @@
-# goForClass
+# A little golang scanner
